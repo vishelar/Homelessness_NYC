@@ -12,3 +12,5 @@ V.S, D.F, C.H.L and C.X collected datasets and cleaned the data individually. C.
 V.S and D.F worked on the hypothesis testing, D.F formulated the hypothesis test and implemented it. V.S contributed to the interpretation and conclusion.
 
 D.F, C.X completed the spatial analysis of the 311 complaints data. C.H.L, V.S and C.X worked together to create feature space for the model. C.H.L implemented the models. D.F, C.H.L, V.S and C.X worked together to interpret the results of the models
+
+Data used for the project is uploaded "https://drive.google.com/drive/u/1/folders/0B_ctgzd6oq-UWmd3SjhGc29fXzg"
